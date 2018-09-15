@@ -3,7 +3,7 @@ CIA Factbook Web Scraper
 
 Note: The project was initially done as part of homework, so many of the "Tasks" / "Questions" being addressed are queries intended to test the quality of the data parser. These queries are actually easily modifiable based on requirement since all the necessary information is stored in Country/Organization objects. 
 
-------------------------------------------------------------------------------------------------------------------------------General Design: 
+General Design: 
 ------------------------------------------------------------------------------------------------------------------------------
 
 There are only 3 classes FactbookParser, Country and Organization. 
